@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_persist_terminal_command_history/templates *
+recursive-include octoprint_persist_terminal_command_history/translations *
+recursive-include octoprint_persist_terminal_command_history/static *
