@@ -1,6 +1,8 @@
 # OctoPrint-PersistTerminalCommandHistory
 
-Ties into the default terminal plugin to save command history (press up to replay old commands) across reloads. 
+Ties into the default terminal plugin to save command history (press up to replay old commands) across reloads.
+
+History will be saved to the plugin's folder (`~/.octoprint/data/persist_terminal_command_history/command_history.json`)
 
 ## Setup
 
